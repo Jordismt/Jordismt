@@ -27,7 +27,7 @@
 
 ¡No dudes en ponerte en contacto conmigo!
 
-[jodocasol2002@gmail.com] |  [Jordismt.github.io/Jcasol] 
+[jodocasol2002@gmail.com] |  [https://jordismt.github.io/Jcasol/] 
 
 ¡Gracias por visitar mi perfil!
 
