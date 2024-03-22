@@ -4,7 +4,7 @@
 
 ## Sobre mí
 
-- 💻 Tecnico superior en Dessarrollo de Aplicaciones Multiplataforma
+- 💻 Tecnico superior en Dessarrollo de Aplicaciones Multiplataforma (DAM) y en Dessarrollo de Aplicaciones Web (DAW)
 - 🌱 Siempre aprendiendo y mejorando.
 - 🚀 Apasionado por la resolución de problemas y la innovación.
 
