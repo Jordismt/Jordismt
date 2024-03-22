@@ -1,33 +1,33 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un entusiasta de la programación apasionado por la creación de software.
+¡Bienvenido a mi perfil de GitHub! Soy Jordi Casanova, un entusiasta de la programación apasionado por la creación de software.
 
 ## Sobre mí
 
-- 💻 Desarrollador de software.
-- 🎓 Graduado en [Tu área de estudio].
+- 💻 Tecnico superior en Dessarrollo de Aplicaciones Multiplataforma
 - 🌱 Siempre aprendiendo y mejorando.
 - 🚀 Apasionado por la resolución de problemas y la innovación.
 
 ## Lenguajes y herramientas
 
-- Python
-- JavaScript
+¡ Todas las tecnologias y más en mi portafolio !
+
+- Python, PyGame, PySide6QT, PyQt5
+- JavaScript, NodeJS, ExpressJS
 - HTML/CSS
-- Git
-- [Añade tus tecnologías favoritas]
+- Java, SpringBoot, Hibernate
+- Dart, Flutter
+- Kotlin
+- XML, DTD
+- Git, Github
 
-## Proyectos destacados
 
-- [Proyecto 1]: Breve descripción o enlace al proyecto.
-- [Proyecto 2]: Breve descripción o enlace al proyecto.
-- [Proyecto 3]: Breve descripción o enlace al proyecto.
 
 ## Contáctame
 
 ¡No dudes en ponerte en contacto conmigo!
 
-[Correo electrónico] | [LinkedIn] | [Sitio web] | [Twitter]
+[jodocasol2002@gmail.com] |  [Jordismt.github.io/Jcasol] 
 
 ¡Gracias por visitar mi perfil!
 
