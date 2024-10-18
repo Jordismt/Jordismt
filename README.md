@@ -21,7 +21,7 @@
 - Kotlin
 - XML, DTD
 - Git, Github
-- Apache, Lampp, Docker, Terminal, Figma
+- Apache, Lampp, Docker, Terminal, Figma, Wordpress, Elementor
 
 
 
