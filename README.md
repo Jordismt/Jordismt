@@ -13,13 +13,15 @@
 ¡ Todas las tecnologias y más en mi portafolio !
 
 - Python, PyGame, PySide6QT, PyQt5
-- JavaScript, NodeJS, ExpressJS
-- HTML/CSS
+- JavaScript,Vue.js, NodeJS, ExpressJS
+- HTML/CSS/Bootstrap
+- PHP, Symfony
 - Java, SpringBoot, Hibernate
 - Dart, Flutter
 - Kotlin
 - XML, DTD
 - Git, Github
+- Apache, Lampp, Docker, Terminal
 
 
 
