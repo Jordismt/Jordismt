@@ -17,6 +17,7 @@
 - HTML/CSS/SCSS/Bootstrap
 - PHP, Symfony
 - Java, SpringBoot, Hibernate, JPA
+- MongoDB, MySQL, PostgreSQL, MariaDB,ObjectDB
 - Dart, Flutter
 - Kotlin
 - XML, DTD
