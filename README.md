@@ -14,14 +14,14 @@
 
 - Python, PyGame, PySide6QT, PyQt5
 - JavaScript,Vue.js, NodeJS, ExpressJS
-- HTML/CSS/Bootstrap
+- HTML/CSS/SCSS/Bootstrap
 - PHP, Symfony
-- Java, SpringBoot, Hibernate
+- Java, SpringBoot, Hibernate, JPA
 - Dart, Flutter
 - Kotlin
 - XML, DTD
 - Git, Github
-- Apache, Lampp, Docker, Terminal, Figma, Wordpress, Elementor
+- Apache, Lampp, Docker, Terminal, Figma, Wordpress, Elementor, ApiREST,Jenkins
 
 
 
@@ -29,7 +29,7 @@
 
 ¡No dudes en ponerte en contacto conmigo!
 
-[jodocasol2002@gmail.com] |  [https://jordismt.github.io/Jcasol/] 
+[jcasoldev@gmail.com] |  [https://jordismt.github.io/Jcasol/] 
 
 ¡Gracias por visitar mi perfil!
 
