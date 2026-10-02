@@ -3,7 +3,7 @@
 
 # 👋 ¡Hola! Soy Jordi Casanova
 
-### Full Stack Developer | Node.js · Express.js · Vue.js · JavaScript · Spring Boot
+### Full Stack Developer | Node.js · Express.js · Vue.js · JavaScript · Spring Boot | SaaS & REST APIs | SQL · NoSQL · Supabase
 
 **Desarrollador de software especializado en aplicaciones web, APIs REST y productos SaaS.**
 
